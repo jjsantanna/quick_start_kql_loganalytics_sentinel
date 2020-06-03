@@ -1,1 +1,1 @@
-# thesis_nils
+# This is a template to facilitate people to access public and private Azure LogAnalytics (Azure Sentinel); perform queries using KQL and further process the data using Python libraries (e.g. pandas and numpy).
