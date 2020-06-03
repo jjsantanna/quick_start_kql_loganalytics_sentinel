@@ -5,5 +5,5 @@ There are a couple of public data provided by Microsoft to be used as demo:
     * TO LOAD AS KQLMAGIC: `%kql azureDataExplorer://code;cluster='help';database='Samples'`
 2. There is a demo of 'Application Insights'
     * TO LOAD AS KQLMAGIC: `%kql appinsights://appid='DEMO_APP';appkey='DEMO_KEY'`
-3. There is a link https://aka.ms/lademo and portal.loganalytics.io/demo, both forward to https://portal.azure.com/#blade/Microsoft_Azure_Monitoring_Logs/DemoLogsBlade
+3. There is a link https://aka.ms/lademo and https://portal.loganalytics.io/demo, both forward to https://portal.azure.com/#blade/Microsoft_Azure_Monitoring_Logs/DemoLogsBlade
     * TO LOAD AS KQLMAGIC: `%kql loganalytics://workspace='DEMO_WORKSPACE';appkey='DEMO_KEY'`
